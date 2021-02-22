@@ -1,6 +1,6 @@
 name: Rancher Monitoring collector
-version: v0.9.1
+version: v0.9.2
 category: Infrastructure Services
-description: Rancher Monitoring infra services 
+description: Rancher Monitoring infra services
 labels:
-  io.rancher.orchestration.supported: 'cattle,mesos,swarm,kubernetes'
+  io.rancher.orchestration.supported: "cattle,mesos,swarm,kubernetes"
