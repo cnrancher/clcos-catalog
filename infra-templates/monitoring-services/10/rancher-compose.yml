@@ -49,7 +49,7 @@
       description: "rancher health exporter images"
       required: true
       type: "string"
-      default: "cnrancher/rancher1.x-exporter:3.1.2"
+      default: "cnrancher/rancher-exporter:3.1.2-amd64"
     - variable: RANCHER_BLACK_BOX_IMAGES
       label: "prometheus black box images"
       description: "prometheus black box images"
